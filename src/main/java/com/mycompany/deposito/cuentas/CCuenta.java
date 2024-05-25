@@ -68,6 +68,7 @@ public class CCuenta {
         // Operaciones de ingreso y retiro
         cuenta1.retirar(2300);
         cuenta1.ingresar(685);
+        cuenta1.ingresar(7000);
     }
     
     
